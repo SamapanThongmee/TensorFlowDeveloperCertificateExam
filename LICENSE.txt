@@ -1,0 +1,4 @@
+The dataset is from: https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html
+
+This dataset is made available under the “CC0 1.0 Universal (CC0 1.0) Public Domain Dedication” license.
+The text of the license is available here: https://creativecommons.org/publicdomain/zero/1.0/
